@@ -1,0 +1,32 @@
+.conditions{
+    display: flex;
+    justify-content: space-around;
+}
+
+.box-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 3vh;
+    text-align: center;
+}
+.access{
+    color: yellow;
+}
+.names{
+    /* background-color: yellow; */
+    font-weight: bolder;
+    margin: 0 2vw;
+    padding: 1vh;
+    border-radius: 5vh;
+}
+.boxes{
+    margin: 1vw;
+    padding: 1vh;
+    background-color:#5f9ea0;
+    border-radius: 3vh;
+    width: 20vw;
+}
+.box-image{
+    width: 10vw;
+}
